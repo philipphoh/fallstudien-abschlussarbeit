@@ -1,0 +1,250 @@
+A;Ampere, Autobahn
+a;Ar
+AA;Auswärtiges Amt
+Abez;Amtsbezirk
+ABGB;Allgemeines Bürgerliches Gesetzbuch (Österreich)
+Abo;Abonnement
+ABz;Amtsbezirk
+AD;Anno Domini
+ADAC;Allgemeiner Deutscher Automobil-Club
+ADHGB;Allgemeines Deutsches Handelsgesetzbuch
+AE;astronomische Einheit, Arbeitseinheit, Abfindungserklärung
+AEG;Allgemeine Elektritzitäts-Gesellschaft
+AfA;Absetzung für Abnutzung
+AFB;Amtliches Fernsprechbuch, Ausführungsbestimmung
+AFeB;Amtliches Fernsprechbuch
+AFG;Arbeitsförderungsgesetz
+AG;Aktiengesellschaft, Amtsgericht, Arbeitsgemeinschaft, Arbeitsgruppe
+AGB;Allgemeine Geschäftsbedingungen
+AGBz;Amtsgerichtsbezirk
+AK;Anwaltskammer, Arbeitskreis
+AktZ;Aktenzeichen
+AL;Abteilungsleiter, Amateurliga
+Alu;Aluminium
+AnV;Angestelltenversicherung, Arbeitnehmervertreter
+AnwK;Anwaltskammer
+AOK;Allgemeine Ortskrankenkasse, Armeeoberkommando
+APA;Austria Presse-Agentur
+APO;Außerparlamentarische Opposition
+Apo;Außerparlamentarische Opposition
+AR;Amtsrat, Amtsrichter, Aufsichtsrat
+ArbA;Arbeitsamt, Arbeitsanweisung
+ArbNV;Arbeitnehmervertreter, -vertretung
+ARD;Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland
+Arge;Arbeitsgemeinschaft
+ARI;Allgemeine Rundfunk-Information
+AStA;Allgemeiner Studentenausschuss, Allgemeiner Studierendenausschuss
+ASV;Arbeiterselbstverwaltung, Allgemeiner Sport-Verein
+ASVÖ;Allgemeiner Sportverband Österreichs
+AT;Altes Testament
+ATM;Austauschmotor
+atü;Atmosphärenüberdruck
+AUA;Austrian Airlines
+B;Bundesstraße, Belgien
+BAT;Bundesangestelltentarifvertrag
+BDI;Bundesverband der Deutschen Industrie
+Bf;Bahnhof
+BGB;Bürgerliches Gesetzbuch
+BGSt;Bundesgeschäftsstelle
+BLZ;Bankleitzahl
+BND;Bundesnachrichtendienst
+BR;Bayerischer Rundfunk
+BRD;Bundesrepublik Deutschland
+BRT;Bruttoregistertonne (veraltet)
+BRZ;Bruttoraumzahl
+C;Celsius
+CD;Compact Disc
+CDU;Christlich-Demokratische Union
+CH;Confoederatio Helvetica (Schweiz)
+CHE;Confoederatio Helvetica (Schweiz)
+cl;Zentiliter
+cm;Zentimeter
+CPU;Hauptprozessor (engl. central processing unit)
+CSU;Christlich-Soziale Union
+CVJM;Christlicher Verein Junger Menschen, früher auch: - Mädchen, - Männer
+DAAD;Deutscher Akademischer Austauschdienst
+DACH;Deutschland, Austria (Österreich), Confoederatio Helvetica (Schweiz)
+DAG;Deutsche Angestellten-Gewerkschaft
+DANN;Deutscher Normenausschuß
+dB;Dezibel
+DB;Deutsche Bundesbahn
+DBB;Deutscher Beamtenbund
+DDR;Deutsche Demokratische Republik
+DFB;Deutscher Fußballbund
+DGB;Deutscher Gewerkschaftsbund
+DIN;Deutsches Institut für Normung e. V.
+DKP;Deutsche Kommunistische Partei
+dl;Deziliter
+DLR;Deutsches Zentrum für Luft- und Raumfahrt e. V.
+DLRG;Deutsche Lebens-Rettungs-Gesellschaft e. V.
+DM;Deutsche Mark
+dpa;Deutsche Presse-Agentur
+DRK;Deutsches Rotes Kreuz
+DRM;Digitale Rechteverwaltung (engl. Digital Rights Management)
+DSG;Deutsche Schlafwagengesellschaft
+DVD;nachträgliche engl. Interpretation: Digital Versatile Disc
+PhD;Doctor of Philosophy
+dz;Doppelzentner (2·50kg)
+E;Eilzug, Europastraße
+EDV;Elektronische Datenverarbeitung
+eG;eingetragene Genossenschaft
+EG;Europäische Gemeinschaft
+eGmbH;eingetragene Genossenschaft mit beschränkter Haftung
+EKD;Evangelische Kirche in Deutschland
+EKG;Elektrokardiogramm
+EU;Europäische Union
+EURATOM;Europäische Atomgemeinschaft
+EVG;Europäische Verteidigungsgemeinschaft, elektronisches Vorschaltgerät
+EVU;Energieversorgungsunternehmen
+EZU;Europäische Zahlungsunion
+EZÜ;Einzel-Zahlungs-Überweisung
+F;Fahrenheit
+FC;Fußballclub
+FDP;Freie Demokratische Partei
+FH;Fachhochschule
+FKK;Freikörperkultur
+fm;Festmeter
+FOS;Fachoberschule
+FU;Freie Universität
+g;Gramm
+GewO;Gewerbeordnung
+GEZ;Gebühreneinzugszentrale, auch für ARD ZDF Deutschlandradio Beitragsservice übertragen
+GG;Grundgesetz (für die Bundesrepublik Deutschland)
+GmbH;Gesellschaft mit beschränkter Haftung
+GPRS;General Packet Radio Service (Datenübertragung im Mobilfunk)
+ha;Hektar
+HGB;Handelsgesetzbuch
+hl;Hektoliter
+HLA;High Level Architecture
+Hptm;Hauptmann
+HR;Hessischer Rundfunk
+HS;Hochschule
+HWK;Handwerkskammer
+IAA;Internationales Arbeitsamt, Internationale Automobil-Ausstellung
+IC;InterCity
+ICE;Intercity-Express
+IG;Industriegewerkschaft
+IHK;Industrie- und Handelskammer
+Interpol;Internationale Kriminalpolizeiliche Organisation
+IOK;Internationales Olympisches Komitee
+ISO;Internationale Organisation für Normung
+IWF;Internationaler Währungsfonds
+JH;Jugendherberge
+KFZ;Kraftfahrzeug
+kg;Kilogramm
+KG;Kommanditgesellschaft
+kHz;Kilohertz
+km;Kilometer
+KP;Kommunistische Partei
+Krad;Kraftrad
+Kripo;Kriminalpolizei
+kW;Kilowatt
+KZ;Konzentrationslager
+l;Liter
+L;Liter
+LKW;Lastkraftwagen
+Lkw;Lastkraftwagen
+LP;Langspielplatte
+m;Meter
+mA;Milliampere
+MAD;Militärischer Abschirmdienst
+mb;Millibar
+MC;MusiCassette (dt. Kompaktkassette, Audiokassette, Musikkassette oder kurz Kassette)
+MdB;Mitglied des Bundestages
+MdL;Mitglied des Landtags
+MEZ;Mitteleuropäische Zeit
+MfG;Mit freundlichen Grüßen
+mfg;Mit freundlichen Grüßen
+mg;Milligramm
+MG;Maschinengewehr
+MHz;Megahertz
+mm;Millimeter
+MMS;Multimedia Messaging Service
+MOQ;minimum order quantity, Mindestbestellmenge
+MP;Militärpolizei, Maschinenpistole
+MP3;MPEG Audio Layer 3
+N;Norden
+NDR;Norddeutscher Rundfunk
+NO;Nordosten
+NOK;ehemals: Nationales Olympisches Komitee
+NS;Nachschrift
+NT;Neues Testament
+NW;Nordwesten
+O;Osten
+OAS;Organisation amerikanischer Staaten
+OB;Oberbürgermeister
+ÖBB;Österreichische Bundesbahnen
+OEZ;Osteuropäische Zeit
+OHG;Offene Handelsgesellschaft
+OP;Operationssaal
+ÖPNV;Öffentlicher Personennahverkehr
+ORF;Österreichischer Rundfunk
+ORG;Organisation
+ÖTV;ehemalig: Öffentliche Dienste, Transport und Verkehr (Gewerkschaft)
+oBdA;ohne Beschränkung der Allgemeinheit
+PC;Personal Computer
+PD;Privatdozent
+PGA;Postgiroamt
+PH;Pädagogische Hochschule
+PKW;Personenkraftwagen
+PS;Pferdestärke
+PSchA;ehemals: Postscheckamt
+q;Quadrat
+qkm;Quadratkilometer
+qm;Quadratmeter
+R;Réaumur
+rh;Rhesusfaktor
+Rh;Rhesusfaktor
+rm;Raummeter
+SBahn;Schnellbahn
+S;Süden
+SaZ;Soldat auf Zeit
+SBB;Schweizerische Bundesbahnen
+SIM;Subscriber Identity Module (Karte im Handy)
+SMS;Short messaging service (Kurzmitteilung )
+SO;Südosten
+SPD;Sozialdemokratische Partei Deutschlands
+SS;Sommersemester, Schutzstaffel, Sega Saturn
+StGB;Strafgesetzbuch
+StPO;Strafprozessordnung
+StVO;Straßenverkehrsordnung
+SV;Schülervertretung
+SV;Sportverein
+SW;Südwesten
+t;Tonne (Einheit)
+Tb;Tuberkulose
+Tbc;Tuberkulose
+TEE;Trans-Europa-Express
+TGV;Train à grande vitesse
+TH;Technische Hochschule
+TL;Teelöffel
+TU;Technische Universität
+TÜV;Technischer Überwachungsverein
+TV;Turnverein
+USt;Umsatzsteuer
+UA;Überwachungsanordnung
+Uni;Universität
+UFO;Unbekanntes Flugobjekt
+UID;Unternehmens-Identifikationsnummer
+UKW;Ultrakurzwelle
+USV;unterbrechungsfreie Stromversorgung
+USW;Umweltsystemwissenschaften
+V;Volt
+VDE;Verband der Elektrotechnik Elektronik Informationstechnik
+vH;vom Hundert
+VHS;Volkshochschule, Video Home System
+VVaG;Versicherungsverein auf Gegenseitigkeit
+VersVG;Versicherungsvertragsgesetz
+VW;Volkswagen
+W;Westen
+WAP;Wireless Application Protocol (Internetseiten aufs Handy)
+WDR;Westdeutscher Rundfunk
+WEZ;Westeuropäische Zeit
+WGB;Weltgewerkschaftsbund
+WM;Weltmeisterschaft
+WMA;(Windows Media Application) Musikkompression
+WS;Wintersemester
+ZE;Zentrale Eröffnung (Abitur)
+ZDF;Zweites Deutsches Fernsehen
+ZPO;Zivilprozessordnung
+ZVS;Zentralstelle für die Vergabe von Studienplätzen
